@@ -1,5 +1,0 @@
-config SHIELD_POND_LEFT
-    def_bool $(shields_list_contains, pond_left)
-
-config SHIELD_POND_RIGHT
-    def_bool $(shields_list_contains, pond_right)
